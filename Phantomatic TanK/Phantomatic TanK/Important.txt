@@ -1,0 +1,9 @@
+
+this is DEMO only,
+
+I deleted some music and textures files ,because the original game is very large [ 42 Mb ]
+
+and I built Level Editor for this game, but it's very complex to use..
+if anyone need my level editor tell me at
+
+ZaidMarkabi@yahoo.com
